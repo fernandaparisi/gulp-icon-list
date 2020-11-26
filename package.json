@@ -1,0 +1,12 @@
+{
+  "name": "gulp-icon-index",
+  "description": "Generates an index file for a list of images on a specified directory.",
+  "main": "gulpfile.js",
+  "version": "1.0.0",
+  "author": "Fernanda Parisi <fernanda.parisi@nextt.com.br>",
+  "homepage": "https://github.com/fernandaparisi/gulp-icon-list",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "yargs": "^16.1.1"
+  }
+}
